@@ -5,3 +5,5 @@ The naming of the files is the MCRA convention - as such the most interesting fi
 
 ## View on Google Maps
 I have uploaded these files to Google Maps for ease of access: https://drive.google.com/open?id=11FW4L15Mz4w5lEH2d-dZz00NwKzXok6d&usp=sharing
+
+![Illustration of KML Files on Google Maps](MCRA_CRoW_Feature_Map.png)
