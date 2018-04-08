@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Mines_in_CRoW" id="Mines_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Mines_in_CRoW</name>
+  <Placemark>
+	<name>West Twin Brook Adit</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75266393452199,51.3197791091973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burrington Rakes</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74215666864425,51.3267161553721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lizard Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73989203165795,51.3197705672087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toad's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74114559631916,51.320086348591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shute Shelve Quarry Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82207183078557,51.2946288619365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolebury Levvy</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5590</SimpleData>
+		<SimpleData name="OBJECTID">6638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.787009416882,51.3242742401281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolebury Warren Mineshaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5590</SimpleData>
+		<SimpleData name="OBJECTID">6638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.77772332267966,51.3250916104364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minstrel Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5807</SimpleData>
+		<SimpleData name="OBJECTID">6855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73668987183148,51.2595969409616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Lead Flue No.1</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65167899099602,51.2517472636468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Lead Flue No.2</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65295742395159,51.2509578159772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Swallow</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64786435833628,51.2566242361513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wheel Pit</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64819280126412,51.2595988408079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barwell's Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70709122515355,51.2948220951507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackmoor Leat</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7103205707439,51.2958995969208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bomb Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7087263936197,51.2948301943786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulder Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70763577443395,51.2947918291601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buccaneer Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70721038566851,51.2904421814763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calcite Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70688754921376,51.2946344890255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castle Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70816446019695,51.2946627425669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charnel Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7076349106348,51.2938026942922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Costean Pit</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70495289708778,51.2938008867285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kate's Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70904037550358,51.2947293796334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>M M Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70792508648591,51.294951939763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-11</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70747581066593,51.2946489208016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-12</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70624357300907,51.2937931095707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-15</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70980827944118,51.2943020948459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-16</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71151666327987,51.294408625272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-17</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71126088686657,51.2945630462579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-18</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71183647605975,51.2946854393044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-19</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70598598947408,51.2938306315453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-20</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7045725220442,51.291438231659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-21</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71019661468781,51.2915841001782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-22</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70997762984173,51.2913336468606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rift Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70694546598449,51.2946701081168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ring Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70304171872434,51.2935605955974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Small Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70788040358047,51.2948443037018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stanton's Stone Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70947968963155,51.2962463974498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ubley Rakes Trial Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70314842207218,51.2939735952716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whittaker's Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71108782177828,51.2945011520367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trat's Site</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71603729662367,51.2945878901616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leigh Down Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64110532541874,51.4606912384331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashton Hill Iron Mines</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16785</SimpleData>
+		<SimpleData name="OBJECTID">18835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.68644807452945,51.430967969558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blanco Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5784</SimpleData>
+		<SimpleData name="OBJECTID">6832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.67733460164792,51.2716992387297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brockwell Iron Pits</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16219</SimpleData>
+		<SimpleData name="OBJECTID">18269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.53349582830329,51.1736682659766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornham Ford Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16203</SimpleData>
+		<SimpleData name="OBJECTID">18253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.78567579901882,51.1290990732428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Lords Wood Adit</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.18302960424096,51.1464343467457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Perry Hill Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.25310029706634,51.1734110617725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fry's Hill Shafts East</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8117392900658,51.2951055947064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fry's Hill Shafts West</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81341089663514,51.2963618991997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frys Hill Shaft Central</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81314020484481,51.2956533932083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hangley Cleave Iron Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16174</SimpleData>
+		<SimpleData name="OBJECTID">18224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.79413197473893,51.1138519916501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoar Oak Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16291</SimpleData>
+		<SimpleData name="OBJECTID">18341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.79811379006172,51.1725973896887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Un-named Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16291</SimpleData>
+		<SimpleData name="OBJECTID">18341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69158564847974,51.1544018846045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honeymead Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16199</SimpleData>
+		<SimpleData name="OBJECTID">18249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.70268867177238,51.1452476520783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingsdown Golf Course Quarry 1</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5335</SimpleData>
+		<SimpleData name="OBJECTID">6383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.26940440635116,51.4024554878702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shipham 'Mine'</name>
+	<ExtendedData><SchemaData schemaUrl="#Mines_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5653</SimpleData>
+		<SimpleData name="OBJECTID">6701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.79901303416356,51.3113791112341</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Swallets_in_CRoW" id="Swallets_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Swallets_in_CRoW</name>
+  <Placemark>
+	<name>Five Buddles Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64755430594006,51.2590358649896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maypole Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65435767268648,51.2516873596644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miners Arms Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64920544448187,51.2592515360291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackmoor Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70953456110462,51.2960842057379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Bank Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71000217279585,51.2975740733129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arboretum Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65669401330101,51.4676815984252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chocolate Wall Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64385412243173,51.2885866199764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harptree Woods Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Swallets_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64463357495949,51.2858756889351</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

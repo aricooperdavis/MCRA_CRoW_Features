@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Shafts_in_CRoW" id="Shafts_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Shafts_in_CRoW</name>
+  <Placemark>
+	<name>Charterhouse Lead Flues</name>
+	<ExtendedData><SchemaData schemaUrl="#Shafts_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70747627817968,51.3002780212387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Easter Bunny Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Shafts_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70644473879087,51.2919484983562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UFS 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Shafts_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70947096409721,51.2975413241542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velvet Bottom Collapse - 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Shafts_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.72139926480505,51.2935388628661</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

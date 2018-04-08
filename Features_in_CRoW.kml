@@ -1,0 +1,2162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Features_in_CRoW" id="Features_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Features_in_CRoW</name>
+  <Placemark>
+	<name>Ash Tree Rifts</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75330563687576,51.3239113670308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barren Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74893749196955,51.3200637592939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bath Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75700557052418,51.3219991584758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bos Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75934596587332,51.3212016902629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>E Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74203956818275,51.3194602292348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elephant's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74017177271473,51.3193191917695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elephant's Rift</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74018539784408,51.3192741343367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Holes</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76331783829054,51.3218682794171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Johnny Nash's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75176780564448,51.3211426704968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nameless Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7525910759756,51.324095803738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pseudo Nash's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75182505553413,51.3211333213914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tunnel Bedding Plane</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75152749155795,51.3204877849424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tunnel Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75151417107305,51.3205508155462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whitcombe's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75152631607267,51.3204158657218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Drunkard's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75857511271117,51.3214494738083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Twin Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74687333331464,51.3193215987652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goatchurch Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75223641209854,51.3199616885343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pierre's Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75154100998356,51.3213149770375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Read's Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76317434418551,51.3218692039716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rod's Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75761978318819,51.3218243359626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sidcot Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75267717872341,51.3205883187443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spar Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74677800267938,51.3196369428163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tween Twins Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74994792604764,51.3204259723744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulder Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74116212201995,51.3193309027053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Twin Middle Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7471710365655,51.3182136639747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Twin Top Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74729038310345,51.3176104275634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flange Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75225111965355,51.3208608103062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>P Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7569063081829,51.3220717372877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yew Tree Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75238872673965,51.320500239934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Twin Brook Adit</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75266393452199,51.3197791091973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Twin Brook Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75268372818357,51.3201116815031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aveline's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75187209861719,51.3240104997223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foxes Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74285239193136,51.3200305748796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frog's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74104370498611,51.3199970717287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milliar's Quarry Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75032398540329,51.3267630342713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orchard Holes</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73745559378655,51.328912954922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plumley's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75116634345743,51.3247344005321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quarry Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75075990949654,51.3226957868319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rickford Fox Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73774190622433,51.3288662017721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Supra-Aveline's Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7508864530061,51.3234143482507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lionel's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74678530292015,51.3200865043059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1921 Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74427133241768,51.319922652892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>200 Yard Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75098612749295,51.3224875274682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bruce's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74837392468674,51.3207058155868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trat's Crack</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74342373175715,51.3198650908962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burrington Rakes</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74215666864425,51.3267161553721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lizard Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73989203165795,51.3197705672087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toad's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74114559631916,51.320086348591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bake Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76498226085171,51.2838833714695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bridged Rift Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7645820088645,51.283094670063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canyon Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76026318155455,51.2846604620448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frenchman's Pinnacle</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76110294915049,51.2851495785378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heart Leaf Bluff Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76214386789147,51.2839288579224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ivy Cliff Half-cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76445521998008,51.2823671276943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Landslip Quarry Rift</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76111928941046,51.2844031180285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monkey Rock Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76264359864957,51.2837997129452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pride Evans' Attic</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76308481823389,51.2827357559029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Slitter Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76366697785809,51.2823902663961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subsidiary Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76177456981534,51.2832748288952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sun Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7637150591146,51.2826956779049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yew Cleft Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76475659519943,51.2832463977065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bone Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74498276682184,51.28853540884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barton Shelter</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86761213064289,51.3023843282619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beeches Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86703424524136,51.2915079819307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bypass Geode</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82442973514031,51.2885425228508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton Bishop Ochre Arch - 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86459429321292,51.2898804395364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coral Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.85058797183043,51.2924738765022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross Plain Fissure</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8390626514272,51.2967114564995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross Quarry Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.84077532386168,51.2899639697071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross Quarry Geode</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.84086332968388,51.290071244762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Denny's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86518371606809,51.2899570267415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fennel Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82500006513075,51.2883586609472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86532879705866,51.2900458667584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Picken's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86549261262899,51.2903683774811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rose Wood Boundary Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82581344794832,51.293730287593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sandy Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8638864480541,51.2896069144198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scragg's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86565521566381,51.28986360877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Supra-Sandy Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86423210296895,51.2896852835588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Supra-Scragg's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86538412542946,51.2899375507077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Rift</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82179079538535,51.2949545549916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Upper Rose Wood Boundary Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8257717170616,51.2938025197864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Webbington Quarry Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8754054873274,51.2920391969919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>White Cliff Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.84786408246817,51.294867584908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wolf Den</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86712209793056,51.3022620664064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carcass Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82623430010347,51.2932057690209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shute Shelve Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82624236940969,51.2936553239836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton Bishop Ochre Arch</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86492865286276,51.2901207612872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crook Peak Rift</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.87664525445186,51.2961393752801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shute Shelve Quarry Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82207183078557,51.2946288619365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Battery Cave (East)</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00971020753801,51.3244364693525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Battery Cave (West)</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00985587222448,51.3245341286875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fiddler's Bay Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02156811810108,51.3258713241284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-17</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.0327807878011,51.3279401326666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-19</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02963833655615,51.3273383391777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-20</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02858756259766,51.3272036950754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-21</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02611233176024,51.3269106761567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-22</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02411688595278,51.3268921719843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-25</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02243549493931,51.326151508968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-26</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02230534776136,51.3261076835459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-27</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02071689772156,51.3256719227518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-28</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02045860504247,51.3256741734795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-30</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.01856844129475,51.3258704726723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-31</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.0183535946013,51.325890325502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-32</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.0181257916975,51.3259732366257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-36</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.01540853431094,51.3257630261068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-37</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.01441860696898,51.3257805965177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-38</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.01207990999867,51.3251623763205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-39</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.0111835197,51.3248643808977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-40</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.0106934666616,51.3247696955897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-41</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00937075967465,51.3246642025437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-42</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00902578384886,51.3246401982135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-43</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00899787440554,51.3246764078193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-45</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00766594745304,51.3248047745084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-46</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00746525312957,51.3248154933147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-47</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00638688435036,51.3247258491445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-48</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00608554775378,51.3247284380386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCRA-BD-53</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.00363791200017,51.3243717617593</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nissen Hut Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.03117661689455,51.3274506981944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Point Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.03384472754544,51.3280206692004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dutton's Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02230514784873,51.3260986929939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blow Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11424</SimpleData>
+		<SimpleData name="OBJECTID">8473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.45842431413216,50.517355397522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cave Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11421</SimpleData>
+		<SimpleData name="OBJECTID">8470</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.4422229955397,50.5194865160245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolebury Hill Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5590</SimpleData>
+		<SimpleData name="OBJECTID">6638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.78656656383894,51.3243941132087</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolebury Levvy</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5590</SimpleData>
+		<SimpleData name="OBJECTID">6638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.787009416882,51.3242742401281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolebury Warren Mineshaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5590</SimpleData>
+		<SimpleData name="OBJECTID">6638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.77772332267966,51.3250916104364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Draycott Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5807</SimpleData>
+		<SimpleData name="OBJECTID">6855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73656295244173,51.2606228557369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Front Sleights Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5807</SimpleData>
+		<SimpleData name="OBJECTID">6855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7388664013384,51.260374541907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minstrel Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5807</SimpleData>
+		<SimpleData name="OBJECTID">6855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73668987183148,51.2595969409616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Durdham Down Bone Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.6211342079857,51.4719037093392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Giant's Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.62501949421596,51.4559404425982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main Wall Grotto</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.62835573230378,51.4641142306682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miller's Fissure</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.62174215019356,51.4657860075968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>River Bend House Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.63404181261632,51.4692989196277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>U4</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5166</SimpleData>
+		<SimpleData name="OBJECTID">6214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.63257065717035,51.4680659844067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Durdle Rift</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11401</SimpleData>
+		<SimpleData name="OBJECTID">8450</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.41775815081051,50.5444881961435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Buddles Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64768529941452,51.2591790157282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Lead Works Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65456225030792,51.2509578455626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65510912916081,51.2511256386432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plantation Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65450567480544,51.2520192446121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waldegrave Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64911309057873,51.260834666787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Lead Flue No.1</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65167899099602,51.2517472636468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Lead Flue No.2</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65295742395159,51.2509578159772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Swallow</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64786435833628,51.2566242361513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wheel Pit</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64819280126412,51.2595988408079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Buddles Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64755430594006,51.2590358649896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maypole Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65435767268648,51.2516873596644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miners Arms Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64920544448187,51.2592515360291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gully Wood Cave No. 1</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5401</SimpleData>
+		<SimpleData name="OBJECTID">6449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.29168354065568,51.3792929611694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Halfpenny Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70707522657362,51.2947142855746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stainsby's Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70940132983872,51.2958152475057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Upper Flood Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70899275460543,51.2981556885199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterwheel Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71026620685885,51.2970239492271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bank Subsidence Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70955023355021,51.2989616079007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oil Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70616291205036,51.2950794780174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roman Rake Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71111320847902,51.2970727618732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barwell's Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70709122515355,51.2948220951507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackmoor Leat</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7103205707439,51.2958995969208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bomb Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7087263936197,51.2948301943786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boulder Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70763577443395,51.2947918291601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Buccaneer Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70721038566851,51.2904421814763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calcite Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70688754921376,51.2946344890255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castle Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70816446019695,51.2946627425669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charnel Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7076349106348,51.2938026942922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Costean Pit</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70495289708778,51.2938008867285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kate's Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70904037550358,51.2947293796334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>M M Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70792508648591,51.294951939763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-11</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70747581066593,51.2946489208016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-12</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70624357300907,51.2937931095707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-15</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70980827944118,51.2943020948459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-16</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71151666327987,51.294408625272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-17</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71126088686657,51.2945630462579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-18</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71183647605975,51.2946854393044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-19</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70598598947408,51.2938306315453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-20</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7045725220442,51.291438231659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-21</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71019661468781,51.2915841001782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MCG-22</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70997762984173,51.2913336468606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rift Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70694546598449,51.2946701081168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ring Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70304171872434,51.2935605955974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Small Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70788040358047,51.2948443037018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stanton's Stone Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70947968963155,51.2962463974498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ubley Rakes Trial Shaft</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70314842207218,51.2939735952716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Whittaker's Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71108782177828,51.2945011520367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Charterhouse Lead Flues</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70747627817968,51.3002780212387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Easter Bunny Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70644473879087,51.2919484983562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>UFS 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70947096409721,51.2975413241542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackmoor Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70953456110462,51.2960842057379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Bank Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71000217279585,51.2975740733129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hangover Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7319484679269,51.2895168312793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Polar Burr</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73309232891184,51.2893028549002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bedstead Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73779592725941,51.2875018588929</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Black Rock Quarry Dig</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73687556242996,51.2882360125135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Timber Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73372856253787,51.2896315813532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trat's Site</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71603729662367,51.2945878901616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Velvet Bottom Collapse - 2</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Shafts</SimpleData>
+		<SimpleData name="index_righ">5725</SimpleData>
+		<SimpleData name="OBJECTID">6773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.72139926480505,51.2935388628661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hellenge Hill Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5640</SimpleData>
+		<SimpleData name="OBJECTID">6688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.9375824075201,51.3099021085602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hurlestone Point Caves</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">16301</SimpleData>
+		<SimpleData name="OBJECTID">18351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.57358963253079,51.2310590213255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Stoke Wood Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">16760</SimpleData>
+		<SimpleData name="OBJECTID">18810</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73424104988184,51.2525174385963</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stoke Woods Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">16760</SimpleData>
+		<SimpleData name="OBJECTID">18810</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7288874333319,51.2501499736697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paradise Bottom Arch</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65177143242023,51.4728074650998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paradise Bottom Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65127432094164,51.4732867970056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leigh Down Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64110532541874,51.4606912384331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Wood Spout</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65391080965007,51.4673554596998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arboretum Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65669401330101,51.4676815984252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parson's Barn Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11334</SimpleData>
+		<SimpleData name="OBJECTID">8383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.92504931121314,50.6387418708209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramspit</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5825</SimpleData>
+		<SimpleData name="OBJECTID">6873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.69303545872581,51.2385878607941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Seagull Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11412</SimpleData>
+		<SimpleData name="OBJECTID">8461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.45223351921641,50.5337473737803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windy Dig (Rift)</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">11412</SimpleData>
+		<SimpleData name="OBJECTID">8461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.45223351921641,50.5337473737803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Totty Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5741</SimpleData>
+		<SimpleData name="OBJECTID">6789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74186216886512,51.278205183134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vurley Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5741</SimpleData>
+		<SimpleData name="OBJECTID">6789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74559211107515,51.2765718820283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blackbird Fissure</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5741</SimpleData>
+		<SimpleData name="OBJECTID">6789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73970499988659,51.2777961970048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Windmill Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Caves</SimpleData>
+		<SimpleData name="index_righ">5375</SimpleData>
+		<SimpleData name="OBJECTID">6423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.69544985201161,51.3795705318291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frances Plantation Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64571678431073,51.2864272455924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smitham Hill Rift Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.63494230024783,51.2829252570853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smitham Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64265563675153,51.2890248276873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canyon Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.63925559427106,51.2920288361895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Double Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64037044321736,51.2927870782616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrow Bottom Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64177107013208,51.292437708366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chocolate Wall Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64385412243173,51.2885866199764</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harptree Woods Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Swallets</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64463357495949,51.2858756889351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lodmore Pond Sink</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Digs</SimpleData>
+		<SimpleData name="index_righ">5744</SimpleData>
+		<SimpleData name="OBJECTID">6792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.67128550045123,51.2815625468209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashton Hill Iron Mines</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16785</SimpleData>
+		<SimpleData name="OBJECTID">18835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.68644807452945,51.430967969558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blanco Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5784</SimpleData>
+		<SimpleData name="OBJECTID">6832</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.67733460164792,51.2716992387297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brockwell Iron Pits</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16219</SimpleData>
+		<SimpleData name="OBJECTID">18269</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.53349582830329,51.1736682659766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornham Ford Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16203</SimpleData>
+		<SimpleData name="OBJECTID">18253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.78567579901882,51.1290990732428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Five Lords Wood Adit</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.18302960424096,51.1464343467457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Perry Hill Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.25310029706634,51.1734110617725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lady's Fountain Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.21356541082987,51.1376233794726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fry's Hill Shafts East</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8117392900658,51.2951055947064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fry's Hill Shafts West</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81341089663514,51.2963618991997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frys Hill Shaft Central</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81314020484481,51.2956533932083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wink's Well</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81410883299048,51.2920317859544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hangley Cleave Iron Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16174</SimpleData>
+		<SimpleData name="OBJECTID">18224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.79413197473893,51.1138519916501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoar Oak Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16291</SimpleData>
+		<SimpleData name="OBJECTID">18341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.79811379006172,51.1725973896887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Un-named Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16291</SimpleData>
+		<SimpleData name="OBJECTID">18341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.69158564847974,51.1544018846045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Honeymead Mine</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">16199</SimpleData>
+		<SimpleData name="OBJECTID">18249</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.70268867177238,51.1452476520783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingsdown Golf Course Quarry 1</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5335</SimpleData>
+		<SimpleData name="OBJECTID">6383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.26940440635116,51.4024554878702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shipham 'Mine'</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Mines</SimpleData>
+		<SimpleData name="index_righ">5653</SimpleData>
+		<SimpleData name="OBJECTID">6701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.79901303416356,51.3113791112341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingsdown Hill Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5323</SimpleData>
+		<SimpleData name="OBJECTID">6371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.26897252104533,51.4097039375981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. David's Well</name>
+	<ExtendedData><SchemaData schemaUrl="#Features_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16706</SimpleData>
+		<SimpleData name="OBJECTID">18756</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.19633404829212,51.1246356102949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

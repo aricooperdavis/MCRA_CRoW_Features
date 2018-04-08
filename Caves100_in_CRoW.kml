@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Caves100_in_CRoW" id="Caves100_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Caves100_in_CRoW</name>
+  <Placemark>
+	<name>Drunkard's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75857511271117,51.3214494738083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Twin Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74687333331464,51.3193215987652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goatchurch Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75223641209854,51.3199616885343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pierre's Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75154100998356,51.3213149770375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Read's Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.76317434418551,51.3218692039716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rod's Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75761978318819,51.3218243359626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sidcot Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75267717872341,51.3205883187443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spar Pot</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74677800267938,51.3196369428163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tween Twins Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74994792604764,51.3204259723744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lionel's Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5591</SimpleData>
+		<SimpleData name="OBJECTID">6639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74678530292015,51.3200865043059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bone Hole</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5734</SimpleData>
+		<SimpleData name="OBJECTID">6782</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74498276682184,51.28853540884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carcass Cave</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82623430010347,51.2932057690209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shute Shelve Cavern</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5697</SimpleData>
+		<SimpleData name="OBJECTID">6745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.82624236940969,51.2936553239836</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Cuthbert's Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5812</SimpleData>
+		<SimpleData name="OBJECTID">6860</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65510912916081,51.2511256386432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Upper Flood Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.70899275460543,51.2981556885199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterwheel Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5703</SimpleData>
+		<SimpleData name="OBJECTID">6751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71026620685885,51.2970239492271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vurley Swallet</name>
+	<ExtendedData><SchemaData schemaUrl="#Caves100_in_CRoW">
+		<SimpleData name="Descriptio">Caves100</SimpleData>
+		<SimpleData name="index_righ">5741</SimpleData>
+		<SimpleData name="OBJECTID">6789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74559211107515,51.2765718820283</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

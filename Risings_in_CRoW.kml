@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Risings_in_CRoW" id="Risings_in_CRoW">
+	<SimpleField name="Descriptio" type="string"></SimpleField>
+	<SimpleField name="index_righ" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+</Schema>
+<Folder><name>Risings_in_CRoW</name>
+  <Placemark>
+	<name>West Twin Brook Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5598</SimpleData>
+		<SimpleData name="OBJECTID">6646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.75268372818357,51.3201116815031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dutton's Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5586</SimpleData>
+		<SimpleData name="OBJECTID">6634</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02230514784873,51.3260986929939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oak Wood Spout</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16791</SimpleData>
+		<SimpleData name="OBJECTID">18841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.65391080965007,51.4673554596998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canyon Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.63925559427106,51.2920288361895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Double Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64037044321736,51.2927870782616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Garrow Bottom Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16766</SimpleData>
+		<SimpleData name="OBJECTID">18816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.64177107013208,51.292437708366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lady's Fountain Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16207</SimpleData>
+		<SimpleData name="OBJECTID">18257</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.21356541082987,51.1376233794726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wink's Well</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5724</SimpleData>
+		<SimpleData name="OBJECTID">6772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.81410883299048,51.2920317859544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingsdown Hill Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">5323</SimpleData>
+		<SimpleData name="OBJECTID">6371</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.26897252104533,51.4097039375981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. David's Well</name>
+	<ExtendedData><SchemaData schemaUrl="#Risings_in_CRoW">
+		<SimpleData name="Descriptio">Risings</SimpleData>
+		<SimpleData name="index_righ">16706</SimpleData>
+		<SimpleData name="OBJECTID">18756</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.19633404829212,51.1246356102949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
