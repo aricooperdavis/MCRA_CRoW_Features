@@ -1,2 +1,2 @@
 # MCRA_CRoW_Features
-.kml files listing features from the MCRA database that exist on CRoW land
+.kml files listing features from the MCRA database that exist on CRoW land. CRoW Shapefiles used to construct these .kmls are also included (they were taken from https://naturalengland-defra.opendata.arcgis.com/datasets/crow-act-2000-access-layer), as are the original MCRA .kmls used (they were taken from http://www.mcra.org.uk/registry/registrysearch.php). Thanks to all data sources, which were used without permission.
