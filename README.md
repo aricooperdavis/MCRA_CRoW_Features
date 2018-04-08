@@ -7,3 +7,5 @@ The naming of the files is the MCRA convention - as such the most interesting fi
 I have [uploaded these files to Google Maps](https://drive.google.com/open?id=11FW4L15Mz4w5lEH2d-dZz00NwKzXok6d&usp=sharing) for ease of access.
 
 [![Illustration of KML Files on Google Maps](MCRA_CRoW_Feature_Map.png)](https://drive.google.com/open?id=11FW4L15Mz4w5lEH2d-dZz00NwKzXok6d&usp=sharing)
+
+#### N.B. This may not include all MCRA features on CRoW land, and may mistakenly include some features that are not on CRoW land, as I cannot guarantee the accuracy/completeness of the MCRA and CRoW data that I'm using.
